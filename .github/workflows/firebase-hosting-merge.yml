@@ -27,3 +27,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_SCHOOLWORK_SITE }}'
           projectId: schoolwork-site
+          channelID: 'production'
