@@ -522,7 +522,7 @@ title = "Nate's Schoolwork"
         # 你可以参考官方文档来使用下列配置
         enable = true
         repo = "bsasealteam6/SchoolWork-Comments"
-        repoId = ""
+        repoId = "R_kgDOI5w-KA"
         category = "Announcements"
         categoryId = ""
         # automatically adapt the current theme i18n configuration when empty
