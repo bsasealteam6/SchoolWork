@@ -3,7 +3,7 @@ theme = "LoveIt"
 languageCode = "en"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "English"
-baseURL = "http://example.org/"
+baseURL = "http://schoolwork.nefortner.com/"
 
 # website title
 title = "Nate's Schoolwork"
