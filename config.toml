@@ -13,7 +13,10 @@ title = "Nate's Schoolwork"
   name = "Nate Fortner"
   email = "schoolworksite@nefortner.com"
   link = "https://nefortner.com"
-
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
 # Menu config
 [menu]
   [[menu.main]]
