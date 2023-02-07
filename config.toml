@@ -604,7 +604,7 @@ title = "Nate's Schoolwork"
     enable = false
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "G-XXZLJ0CX0T"
       # whether to anonymize IP
       # 是否匿名化用户 IP
       anonymizeIP = true
