@@ -313,7 +313,7 @@ title = "Nate's Schoolwork"
     RootMe= ""
     Email = "schoolworksite@nefortner.com"
     Phone = ""
-    RSS = ""
+    RSS = true
 
   # Page global config
   # 文章页面全局配置
